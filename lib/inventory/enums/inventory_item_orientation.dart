@@ -1,0 +1,4 @@
+enum InventoryItemOrientation {
+  horizontal,
+  vertical,
+}
